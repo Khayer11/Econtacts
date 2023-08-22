@@ -1,0 +1,11 @@
+C:\Users\Popoy PC\Desktop\Econtacts\obj\Debug\Econtacts.csproj.AssemblyReference.cache
+C:\Users\Popoy PC\Desktop\Econtacts\obj\Debug\Econtacts.csproj.SuggestedBindingRedirects.cache
+C:\Users\Popoy PC\Desktop\Econtacts\obj\Debug\Econtacts.Econtact.resources
+C:\Users\Popoy PC\Desktop\Econtacts\obj\Debug\Econtacts.Properties.Resources.resources
+C:\Users\Popoy PC\Desktop\Econtacts\obj\Debug\Econtacts.csproj.GenerateResource.cache
+C:\Users\Popoy PC\Desktop\Econtacts\obj\Debug\Econtacts.csproj.CoreCompileInputs.cache
+C:\Users\Popoy PC\Desktop\Econtacts\bin\Debug\Econtacts.exe.config
+C:\Users\Popoy PC\Desktop\Econtacts\bin\Debug\Econtacts.exe
+C:\Users\Popoy PC\Desktop\Econtacts\bin\Debug\Econtacts.pdb
+C:\Users\Popoy PC\Desktop\Econtacts\obj\Debug\Econtacts.exe
+C:\Users\Popoy PC\Desktop\Econtacts\obj\Debug\Econtacts.pdb
